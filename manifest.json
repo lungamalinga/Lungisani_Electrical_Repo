@@ -1,6 +1,6 @@
 {
-    "name": "lungisani_electrical",
-    "short_name": "lungisani_electrical",
+    "name": "lungisani_electrical_site",
+    "short_name": "lungisani_electrical_site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
